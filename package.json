@@ -1,0 +1,19 @@
+{
+  "name": "static_page",
+  "version": "1.0.0",
+  "description": "Static Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheInvincibleRalph/static_page.git"
+  },
+  "author": "TheInvincibleRalph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheInvincibleRalph/static_page/issues"
+  },
+  "homepage": "https://github.com/TheInvincibleRalph/static_page#readme"
+}
